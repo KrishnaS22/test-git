@@ -1,4 +1,4 @@
 Welcome to my project.
 
-Author: Krishna Swarnkar
+Author: Krishna Kumar Swarnkar
 Twitter: @KrishnaSwarnkar
